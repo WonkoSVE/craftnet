@@ -150,4 +150,5 @@ return [
     'wrkcpt.dev',
     'xip.io',
     'yourstruly.space',
+    'wicycle.dev',
 ];
